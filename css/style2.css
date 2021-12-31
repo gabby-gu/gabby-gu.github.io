@@ -1,7 +1,5 @@
 body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #147053; overflow: auto;
-background: #b59ec8; /* Old browsers */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffded1', endColorstr='#ffc5af',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
+background-color: #b59ec8; /* Old browsers */
 }
 
 body, html {height: 100%;}
