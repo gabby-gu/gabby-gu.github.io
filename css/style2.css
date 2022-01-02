@@ -13,7 +13,7 @@ p {font-weight: 200; font-size: 20px;}
 
 .name {font-size: 45px; text-transform: lowercase; font-weight: 900; margin: 0 auto; text-align: center; color: #fb570d; display: inline-block;}
 
-.container {margin: 0 auto; width: 700px; padding: 120px 12px 50px; overflow: auto;}
+.container {margin: 0 auto; width: 700px; overflow: auto;}
 article {padding: 60px;}
 /* TODO find better cross-platform characters */
 /* article::before {
