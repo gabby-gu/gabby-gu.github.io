@@ -46,10 +46,3 @@ footer .inline-list li {margin-right: 10px;}
 footer a {border: none; color: #fb570d;}
 footer {margin: 0 auto; text-align: center; size: 16px}
 
-.dot {
-  height: 25px;
-  width: 25px;
-  background-color: #fb570d;
-  border-radius: 50%;
-  display: inline-block;
-}
