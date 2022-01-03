@@ -42,7 +42,6 @@ hr {border-bottom: 3px solid #fb570d;}
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline-block;}
 
-footer .inline-list li {margin-right: 40px;}
 footer a {border: none; color: #fb570d;}
 footer:hover {color: #f58c5d;}
 footer {margin: 0 auto; text-align: center; size: 16px}
