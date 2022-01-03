@@ -11,7 +11,9 @@ a {text-decoration: none; color: #fb570d; border-bottom: 3px solid #fb570d;}
 a:hover {color: #fb570d}
 p {font-weight: 200; font-size: 20px;}
 
-.name {font-size: 45px; text-transform: lowercase; font-weight: 900; margin: 0 auto; text-align: center; color: #fb570d; display: inline-block;}
+.name {font-size: 45px; text-transform: lowercase; font-weight: 900; margin: 0 auto; text-align: center; color: #fb570d; display: inline-block;  padding-bottom: 20px;}
+
+
 
 .container {margin: 0 auto; width: 700px; overflow: auto;}
 article {padding: 60px;}
